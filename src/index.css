@@ -1,0 +1,55 @@
+body {
+    background-color: #3039b7;
+    padding: 20px;
+    margin: 0;
+    background-image: url(./Images/lol.png);
+    background-repeat: no-repeat;
+    background-position: 50% -25%;
+    background-size: 50%;
+  }
+  h1, p, ul {
+    font-family: sans-serif;
+  }
+  h1 {
+    font-family: Colonna MT;
+  }
+  h2 {
+    font-family: Comic Sans MS;
+    font-size: 40px;
+  }
+  li {
+    font-family: cursive;
+  }
+  h1 {
+    color: #FFF;
+  }
+  ul.header li {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+  }
+  ul.header {
+    background-color: #111;
+    padding: 0;
+  }
+  ul.header li a {
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+  }
+  .content {
+    background-color: #FFF;
+    padding: 20px;
+  }
+  .content h2 {
+    padding: 0;
+    margin: 0;
+  }
+  .content li {
+    margin-bottom: 10px;
+  }
+  .active {
+      background-color: #e5b226;
+  }
